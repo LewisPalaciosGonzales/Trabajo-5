@@ -250,6 +250,13 @@ print("La variable es int :",venta_es_int)
 
 #Ejercicio 27
 dolares=314
+type_dolares=type(dolares)
+dolares_es_str=isinstance(dolares,str)
+dolares_es_int=isinstance(dolares,int)
+print("La variable dolar es :",type_dolares)
+print("La variable es str :",dolares_es_str)
+print("La variable es int :",dolares_es_int)
+#finif
 
 #Ejercicio 28
 euros=54
