@@ -340,30 +340,93 @@ print("La variable es str :",libro_es_str)
 
 #Ejercicio 36
 lapiceros=5
+type_lapiceros=type(lapiceros)
+lapiceros_es_int=isinstance(lapiceros,int)
+lapiceros_es_str=isinstance(lapiceros,str)
+print("La variable lapicero es :",type_lapiceros)
+print("La variable es int :",lapiceros_es_int)
+print("La variable es str :",lapiceros_es_str)
+#finif
 
 #Ejercicio 37
 problemas=9
+type_problemas=type(problemas)
+problemas_es_bool=isinstance(problemas,bool)
+problemas_es_int=isinstance(problemas,int)
+print("La variable problemas es :",type_problemas)
+print("La variable es bool :",problemas_es_bool)
+print("La variable es int :",problemas_es_int)
+#finif
 
 #Ejercicio 38
 celular="654821354"
+type_celular=type(celular)
+celular_es_float=isinstance(celular,float)
+celular_es_str=isinstance(celular,str)
+print("La variable celular es :",type_celular)
+print("La variable es float :",celular_es_float)
+print("La variable es str :",celular_es_str)
+#finif
 
 #Ejercicio 39
 telefono=623598
+type_telefono=type(telefono)
+telefono_es_int=isinstance(telefono,int)
+telefono_es_str=isinstance(telefono,str)
+print("La variable telefono es :",type_telefono)
+print("La variable es int :",telefono_es_int)
+print("La variable es str :",telefono_es_str)
+#finif
 
 #Ejercicio 40
 personas=125
+type_personas=type(personas)
+personas_es_bool=isinstance(personas,bool)
+personas_es_int=isinstance(personas,int)
+print("La variable persona es :",type_personas)
+print("La variable es bool :",personas_es_bool)
+print("La variable es int :",personas_es_int)
+#finif
 
 #Ejercicio 41
 direccion="San diego"
+type_dirreccion=type(direccion)
+direccion_es_bool=isinstance(direccion,bool)
+direccion_es_str=isinstance(direccion,str)
+print("La variable direccion es :",type_dirreccion)
+print("La variable es bool :",direccion_es_bool)
+print("La variable es str :",direccion_es_str)
+#finif
 
 #Ejercicio 42
 departamento="Lambayeque"
+type_departamento=type(departamento)
+departamento_es_str=isinstance(departamento,str)
+departamento_es_float=isinstance(departamento,float)
+print("La variable departamento es :",type_departamento)
+print("La variable es str :",departamento_es_str)
+print("La variable es float :",departamento_es_float)
+#finif
 
 #Ejercicio 43
 edad=52
+type_edad=type(edad)
+edad_es_str=isinstance(edad,str)
+edad_es_int=isinstance(edad,int)
+print("La variable edad es :",type_edad)
+print("La variable es str :",edad_es_str)
+print("La variable es int :",edad_es_int)
+#finif
 
 #Ejercicio 44
 hijos=3
+type_hijos=type(hijos)
+hijos_es_float=isinstance(hijos,float)
+hijos_es_int=isinstance(hijos,int)
+print("La variable hijos es :",type_hijos)
+print("La variable es float :",hijos_es_float)
+print("La variable es int :",hijos_es_int)
+#finif
 
 #Ejercicios 45
 Soltero=True
