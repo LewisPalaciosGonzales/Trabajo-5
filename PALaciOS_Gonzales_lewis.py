@@ -47,3 +47,53 @@ print("La variable operating system es :",type_operating_system)
 print("La variable es int :",operating_system_es_int)
 print("La variable es str :",operating_system_es_str)
 #finif
+
+#Ejercicio 6
+total=214
+type_total=type(total)
+total_es_int=isinstance(total,int)
+total_es_float=isinstance(total,float)
+print("La variable total es :",type_total)
+print("La variable es int :",total_es_int)
+print("La variable es flota :",total_es_float)
+#finif
+
+#Ejercicio 7
+hombre=True
+type_hombre=type(hombre)
+hombre_es_str=isinstance(hombre,str)
+hombre_es_bool=isinstance(hombre,bool)
+print("La variable hombre es :",type_hombre)
+print("La variable es str :",hombre_es_str)
+print("La variable es bool :",hombre_es_bool)
+#finif
+
+#Ejercicio 8
+social_network="Google"
+type_social_network=type(social_network)
+social_network_es_str=isinstance(social_network,str)
+social_network_es_float=isinstance(social_network,float)
+print("La variable social network es :",type_social_network)
+print("La variable es str :",social_network_es_str)
+print("La variable es float :",social_network_es_float)
+#finif
+
+#Ejercicio 9
+cantidad=1
+type_cantidad=type(cantidad)
+cantidad_es_bool=isinstance(cantidad,bool)
+cantidad_es_int=isinstance(cantidad,int)
+print("La variable cantidad es :",type_cantidad)
+print("La variable es bool :",cantidad_es_bool)
+print("La variable es int :",cantidad_es_int)
+#finif
+
+#Ejercicio 10
+promedio=23.5
+type_promedio=type(promedio)
+promedio_es_float=isinstance(promedio,float)
+promedio_es_str=isinstance(promedio,str)
+print("La variable promedio es :",type_promedio)
+print("La variables es float :",promedio_es_float)
+print("La variable es str:",promedio_es_str)
+#finif
