@@ -260,27 +260,83 @@ print("La variable es int :",dolares_es_int)
 
 #Ejercicio 28
 euros=54
+type_euros=type(euros)
+euros_es_bool=isinstance(euros,bool)
+euros_es_int=isinstance(euros,int)
+print("La variable euro es :",type_euros)
+print("La variable es bool :",euros_es_bool)
+print("La variable es int :",euros_es_int)
+#finif
 
 #Ejercicio 29
 compro=True
+type_compro=type(compro)
+compro_es_bool=isinstance(compro,bool)
+compro_es_str=isinstance(compro,str)
+print("La variable compro es :",type_compro)
+print("La variable bool es:",compro_es_bool)
+print("La variable str es :",compro_es_str)
+#finif
 
 #Ejercicio 30
 i_g_v=15.2
+type_i_g_v=type(i_g_v)
+i_g_v_es_float=isinstance(i_g_v,float)
+i_g_v_es_int=isinstance(i_g_v,int)
+print("La variable I.G.V es :",type_i_g_v)
+print("La variable es float :",i_g_v_es_float)
+print("la variable es int :",i_g_v_es_int)
+#finif
 
 #Ejercicio 31
 impuesto=32.9
+type_impuesto=type(impuesto)
+impuesto_es_int=isinstance(impuesto,int)
+impuesto_es_float=isinstance(impuesto,float)
+print("La variable impuesto es :",type_impuesto)
+print("La variable es int :",impuesto_es_int)
+print("La variable es float :",impuesto_es_float)
+#finif
 
 #Ejercicio 32
 vuelto=0.03
+type_vuelto=type(vuelto)
+vuelto_es_bool=isinstance(vuelto,bool)
+vuelto_es_float=isinstance(vuelto,float)
+print("La variable vuelto es :",type_vuelto)
+print("La variable es bool :",vuelto_es_bool)
+print("La variable es float :",vuelto_es_float)
+#finif
 
 #Ejercicio 33
 subir=False
+type_subir=type(subir)
+subir_es_float=isinstance(subir,float)
+subir_es_bool=isinstance(subir,bool)
+print("La variable subir es :",type_subir)
+print("La variable es float :",subir_es_float)
+print("La variable es bool :",subir_es_bool)
+#finif
 
 #Ejercicio 34
 nombre="Juan Jose"
+type_nombre=type(nombre)
+nombre_es_str=isinstance(nombre,str)
+nombre_es_int=isinstance(nombre,int)
+print("La variable nombre es :",type_nombre)
+print("La variable es str :",nombre_es_str)
+print("La variable es int :",nombre_es_int)
+#finif
 
 #Ejercicio 35
 libro="Probabilidad"
+type_libro=type(libro)
+libro_es_float=isinstance(libro,float)
+libro_es_str=isinstance(libro,str)
+print("La variable libro es :",type_libro)
+print("La variable es float :",libro_es_float)
+print("La variable es str :",libro_es_str)
+#finif
 
 #Ejercicio 36
 lapiceros=5
