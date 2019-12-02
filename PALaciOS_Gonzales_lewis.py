@@ -429,22 +429,64 @@ print("La variable es int :",hijos_es_int)
 #finif
 
 #Ejercicios 45
-Soltero=True
+soltero=True
+type_soltero=type(soltero)
+soltero_es_str=isinstance(soltero,str)
+soltero_es_bool=isinstance(soltero,bool)
+print("La variable soltero es :",type_soltero)
+print("La variable es str :",soltero_es_str)
+print("La variable es bool:",soltero_es_bool)
+#finif
 
 #Ejercicio 46
 pais="Peru"
+type_pais=type(pais)
+pais_es_float=isinstance(pais,float)
+pais_es_str=isinstance(pais,str)
+print("La variable pais es :",type_pais)
+print("La variable es float :",pais_es_float)
+print("La variable es str :",pais_es_str)
+#finif
 
 #Ejercicio 47
 divisas=2.35
+type_divisas=type(divisas)
+divisas_es_int=isinstance(divisas,int)
+divisas_es_float=isinstance(divisas,float)
+print("La variable divisas es :",type_divisas)
+print("La variable es int :",divisas_es_int)
+print("La variable es float :",divisas_es_float)
+#finif
 
 #Ejercicio 48
-retencio=15
+retencion=15
+type_retencion=type(retencion)
+retencion_es_bool=isinstance(retencion,bool)
+retencion_es_int=isinstance(retencion,int)
+print("La variable retencion es :",type_retencion)
+print("La variable es bool :",retencion_es_bool)
+print("La variable es int :",retencion_es_int)
+#finif
 
 #Ejercicio 49
-I_V_A=25
+i_v_a=25
+type_i_v_a=type(i_v_a)
+i_v_a_es_float=isinstance(i_v_a,float)
+i_v_a_es_int=isinstance(i_v_a,int)
+print("La variable I.V.A es :",type_i_v_a)
+print("La variable es float :",i_v_a_es_float)
+print("La variable es int :",i_v_a_es_int)
+#finif
 
 #Ejercicio 50
 chrome=51.17
+type_chrome=type(chrome)
+chrome_es_str=isinstance(chrome,str)
+chrome_es_float=isinstance(chrome,float)
+print("La variable Chrome es :",type_chrome)
+print("La variable es str :",chrome_es_str)
+print("La variable es float :",chrome_es_float)
+#finif
 
 
 
