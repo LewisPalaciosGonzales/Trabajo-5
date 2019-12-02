@@ -37,3 +37,13 @@ print("La variable visitas es :",type_visitas)
 print("La variable es bool :",visitas_es_bool)
 print("La variable es int :",visitas_es_int)
 #finif
+
+#Ejercicio 5
+operating_system="IOS"
+type_operating_system=type(operating_system)
+operating_system_es_int=isinstance(operating_system,int)
+operating_system_es_str=isinstance(operating_system,str)
+print("La variable operating system es :",type_operating_system)
+print("La variable es int :",operating_system_es_int)
+print("La variable es str :",operating_system_es_str)
+#finif
