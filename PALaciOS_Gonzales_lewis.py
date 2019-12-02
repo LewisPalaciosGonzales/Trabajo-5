@@ -249,3 +249,78 @@ print("La variable es int :",venta_es_int)
 #finif
 
 #Ejercicio 27
+dolares=314
+
+#Ejercicio 28
+euros=54
+
+#Ejercicio 29
+compro=True
+
+#Ejercicio 30
+i_g_v=15.2
+
+#Ejercicio 31
+impuesto=32.9
+
+#Ejercicio 32
+vuelto=0.03
+
+#Ejercicio 33
+subir=False
+
+#Ejercicio 34
+nombre="Juan Jose"
+
+#Ejercicio 35
+libro="Probabilidad"
+
+#Ejercicio 36
+lapiceros=5
+
+#Ejercicio 37
+problemas=9
+
+#Ejercicio 38
+celular="654821354"
+
+#Ejercicio 39
+telefono=623598
+
+#Ejercicio 40
+personas=125
+
+#Ejercicio 41
+direccion="San diego"
+
+#Ejercicio 42
+departamento="Lambayeque"
+
+#Ejercicio 43
+edad=52
+
+#Ejercicio 44
+hijos=3
+
+#Ejercicios 45
+Soltero=True
+
+#Ejercicio 46
+pais="Peru"
+
+#Ejercicio 47
+divisas=2.35
+
+#Ejercicio 48
+retencio=15
+
+#Ejercicio 49
+I_V_A=25
+
+#Ejercicio 50
+chrome=51.17
+
+
+
+
+
